@@ -12,4 +12,4 @@ The Hoffman Lab is developing tutorials and demos to guide researchers through t
 
 ## [Ensemble Representational Geometry](https://github.com/hoffman-lab/Ensemble-Representational-Space)
 
-![image](https://github.com/user-attachments/assets/9c193916-b73a-4cd1-94cb-f7cb24a5108b)
+
